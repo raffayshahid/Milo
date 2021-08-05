@@ -1,5 +1,6 @@
 # hello_world.py
 
-import PySimpleGUI as sg
+import PySimpleGUI as gui
 
-sg.Window(title="Hello World", layout=[[]], margins=(500, 500)).read()
+
+gui.Window(title="Card Game", layout=[[]], margins=(300, 300)).read()
