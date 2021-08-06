@@ -1,12 +1,6 @@
 # hello_world.py
 
 import PySimpleGUI as gui
-# Deck of Cards Simulator (Live Coding)
-# Create a simple deck of cards and draw them on the screen
-# Python 3.x Compatible
-# Windows, MacOSX, and Linux Compatible
-# by @TokyoEdtech
-
 import turtle
 import time
 import random
