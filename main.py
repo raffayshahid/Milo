@@ -8,5 +8,11 @@ window.title("Poker Simulator")
 window.exitonclick()
 
 class mainMenu(): 
-    def showMainMenu():
-        print("Hello World")
+    def showTitle():
+        pass
+
+    def startButton():
+        pass
+
+    def instructions(): 
+        pass
