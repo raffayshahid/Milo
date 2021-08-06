@@ -6,3 +6,7 @@ window.bgcolor(74, 85, 114)
 window.setup(800, 600)
 window.title("Poker Simulator")
 window.exitonclick()
+
+class mainMenu(): 
+    def showMainMenu():
+        print("Hello World")
